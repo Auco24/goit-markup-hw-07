@@ -303,14 +303,13 @@ h3 {
 
 /* Footer */
 
-.logo-media {
-  margin-top: 16px;
-}
+
 
 .footer-text {
   margin: 0;
   margin-left: 0;
   width: 264px;
+  margin-top: 16px;
 }
 .footer-data {
   display: flex;
@@ -1459,6 +1458,10 @@ h3 {
     flex-wrap: wrap;
     padding-left: 108px;
   }
+
+ .logo-media {
+  margin-bottom: 72px;
+}
   .form-element {
     margin: 0;
   }
