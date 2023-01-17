@@ -303,10 +303,13 @@ h3 {
 
 /* Footer */
 
+.logo-media {
+  margin-top: 16px;
+}
+
 .footer-text {
   margin: 0;
   margin-left: 0;
-  margin-top: 16px;
   width: 264px;
 }
 .footer-data {
@@ -1349,12 +1352,17 @@ h3 {
     display: none;
   }
 
+  .link-contacts {
+    font-size: 12px;
+  }
+
   .link-contacts li + li {
     margin-left: 0;
   }
 
   .link-hover {
     padding-bottom: 22px;
+    
   }
 
   .hero {
@@ -1453,9 +1461,6 @@ h3 {
   }
   .form-element {
     margin: 0;
-  }
-  .logo-media {
-    margin-bottom: 72px;
   }
   .footer {
     height: auto;
