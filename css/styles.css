@@ -119,10 +119,7 @@ h3 {
   transition: color var(--animation);
 }
 
-.link-contacts a {
-  padding-top: 24px;
-  padding-bottom: 24px;
-}
+
 
 .link-contacts li + li {
   margin-left: 40px;
@@ -441,7 +438,6 @@ h3 {
 .button-bottom {
   display: flex;
   align-items: flex-end;
-  margin-left: 24px;
 }
 
 .filter {
@@ -1222,7 +1218,7 @@ h3 {
     display: block;
     text-align: center;
 
-    margin-bottom: 16px;
+
   }
 
   .footer-text {
@@ -1232,6 +1228,10 @@ h3 {
     margin-bottom: 72px;
   }
 
+ .logo-media {
+  margin-bottom: 16px;
+ }
+  
   .footer {
     height: auto;
     padding-bottom: 96px;
@@ -1459,9 +1459,6 @@ h3 {
     padding-left: 108px;
   }
 
- .logo-media {
-  margin-bottom: 72px;
-}
   .form-element {
     margin: 0;
   }
