@@ -143,14 +143,17 @@ h3 {
   color: var(--color-studio);
 }
 
+
+
+
 .hero-title {
-  max-width: 317px;
+  max-width: 530px;
   margin-left: auto;
   margin-right: auto;
   font-weight: 500;
   font-size: 36px;
   line-height: 1.11;
-  margin-bottom: 80px;
+  margin-bottom: 48px;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -1228,10 +1231,13 @@ h3 {
     margin: 0;
     margin-left: auto;
     margin-right: auto;
+  }
+
+  .logo-update  {
     margin-bottom: 72px;
   }
 
- .logo-media {
+  .logo-media {
   margin-bottom: 16px;
  }
   
@@ -1527,6 +1533,20 @@ h3 {
     padding-bottom: 94px;
   }
 
+  .main-title {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    /* or 107% */
+    
+    text-align: center;
+    letter-spacing: 0.02em;
+    
+    color: #FFFFFF;
+    }
+  
   .nav {
     display: flex;
 
